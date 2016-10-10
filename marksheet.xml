@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF"-8"?>
+<marksheet>
+   <course>
+       <course_id>CSC45</course_id>
+       <title>OOPM</title>
+       <th>50</th>
+       <ia>16</ia>
+       <orpr>14</orpr>
+       <tw>18</tw>
+       <total>88</total>
+    </course>
+
+    <course>
+       <course_id>CSC46</course_id>
+       <title>AM-IV</title>
+       <th>40</th>
+       <ia>14</ia>
+       <orpr>15</orpr>
+       <tw>16</tw>
+       <total>85</total>
+    </course>
+
+    <course>
+       <course_id>CSC47</course_id>
+       <title>COA</title>
+       <th>45</th>
+       <ia>16</ia>
+       <orpr>14</orpr>
+       <tw>14</tw>
+       <total>89</total>
+    </course>
+
+    <course>
+       <course_d>CSC48</course_id>
+       <title>AOA</title>
+       <th>46</th>
+       <ia>18</ia>
+       <orpr>15</orpr>
+       <tw>16</tw>
+       <total>95</total>
+    </course>
+
+</marksheet>
+
+
